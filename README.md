@@ -3,4 +3,3 @@
 
 ### In the future, we plan to release the code of LWMS-Net to advance defect detection research and facilitate practical applications.
 
-"# LWMS-Net" 
